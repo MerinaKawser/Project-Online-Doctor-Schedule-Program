@@ -1,0 +1,15 @@
+.header{
+    margin: 3% 0;
+}
+nav{
+  padding: 1%;
+}
+.img_size{
+  width:30%;
+  height: auto;
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+
