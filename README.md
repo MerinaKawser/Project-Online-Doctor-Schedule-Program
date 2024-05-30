@@ -1,6 +1,6 @@
-Project: Online Doctor Schedule Program
+Project: Online Doctor Schedule Program <br>
 Upload Date: 24th May, 2024
-***************************************
+---
 
 Requirements: XAMPP Server
 **************************
